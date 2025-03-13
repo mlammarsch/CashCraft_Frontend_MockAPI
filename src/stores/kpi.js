@@ -7,7 +7,7 @@ export const useKpiStore = defineStore('kpi', {
         id: 1,
         title: 'Kontostand',
         value: 10000.50,
-        trendValue: 7.5,
+        trendValue: 27.57,
       },
       {
         id: 2,
